@@ -1,9 +1,6 @@
-# React TypeScript Starter Pack
+# TODO APP
 
-To use this template click `Use this template`
+A Todo application built with React, TypeScript, SCSS, and Fetch API. Users can add, update, mark as completed, and delete tasks, with all changes saved on the server and reflected in real time.
+Demonstrates practical experience with client-server interaction, asynchronous requests, and dynamic UI updates.
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+DEMOLINK https://arturshmidt.github.io/Todo_App/
